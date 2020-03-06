@@ -1,5 +1,5 @@
 {
-  "title": "Avoid usage of UnmodifiableList",
+  "title": "Avoid usage of AbstractLinkedList",
   "type": "CODE_SMELL",
   "status": "ready",
   "remediation": {
